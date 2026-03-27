@@ -50,16 +50,13 @@ Learning new topics every week and reinforcing them through projects.*
 
 ---
 
-## 📊 GitHub İstatistikler | GitHub Stats
+## 📊 GitHub Aktivite | GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbrahimEmreYildiz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimEmreYildiz&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=IbrahimEmreYildiz&theme=tokyo-night&hide_border=true)
 
 </div>
-
 ---
 
 ## 📬 İletişim | Contact
