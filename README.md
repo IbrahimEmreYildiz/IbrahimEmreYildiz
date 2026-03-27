@@ -2,9 +2,10 @@
 <div align="center">
   <h1>👋 Merhaba, ben İbrahim Emre Yıldız | Hi, I'm İbrahim Emre Yıldız</h1>
   <p>
-    🎯 <strong>Junior Computer Vision Engineer</strong> olmak için çalışıyorum<br>
+    👁️ <strong>İlgi Alanı | Interest:</strong> Computer Vision<br>
     🎓 Çukurova Üniversitesi — Bilgisayar Mühendisliği, 4. Sınıf<br>
-    📍 Adana, Türkiye → Ankara
+    🎓 Çukurova University — Computer Engineering, 4th Year<br>
+    📍 Adana, Türkiye
   </p>
 </div>
 
@@ -34,6 +35,8 @@ Learning new topics every week and reinforcing them through projects.*
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
