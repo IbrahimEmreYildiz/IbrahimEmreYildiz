@@ -11,7 +11,6 @@
 
 ---
 
-
 ## 🛠️ Teknolojiler | Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,6 +28,7 @@
 
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
+| [🔎 CareerLens](https://github.com/IbrahimEmreYildiz/career_lens) | İş ilanlarını web'den toplayıp analiz eden ve masaüstü arayüzde görselleştiren modüler uygulama | Python, PyQt5, Pandas, SQLite, MongoDB, Selenium |
 | [🏛️ Library Tracking System](https://github.com/IbrahimEmreYildiz) | OOP, dosya yönetimi ve hata yönetimi içeren komut satırı kütüphane uygulaması | Python, JSON, OOP |
 | [📷 AI Camera Simulation](https://github.com/IbrahimEmreYildiz) | Güvenlik kamerası simülatörü — nesne tespiti ve log sistemi | Python, OOP |
 | [🔍 Pixel Vision Analyzer](https://github.com/IbrahimEmreYildiz) | Piksel matrisi analizi — parlaklık hesaplama ve kenar tespiti | Python, NumPy |
@@ -42,6 +42,7 @@
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=IbrahimEmreYildiz&theme=tokyo-night&hide_border=true)
 
 </div>
+
 ---
 
 ## 📬 İletişim | Contact
