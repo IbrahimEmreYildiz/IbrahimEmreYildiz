@@ -34,6 +34,7 @@
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
 | [🔎 Career Lens](https://github.com/IbrahimEmreYildiz/Career-Lens) | İş ilanlarını web'den toplayıp analiz eden ve masaüstü arayüzde görselleştiren modüler uygulama | Python, PyQt5, Pandas, SQLite, MongoDB, Selenium |
+| [💰 Price Tracker](https://github.com/IbrahimEmreYildiz/Price-Tracker-Project) | Web'den ürün fiyatı çekip CSV'ye kaydeden ve NumPy/Pandas ile istatistiksel rapor üreten analiz sistemi | Python, NumPy, Pandas, BeautifulSoup, Requests |
 | [🏛️ Library Tracking System](https://github.com/IbrahimEmreYildiz/library_tracking_system) | OOP, dosya yönetimi ve hata yönetimi içeren komut satırı kütüphane uygulaması | Python, JSON, OOP |
 | [📷 AI Camera Simulation](https://github.com/IbrahimEmreYildiz/goruntu_analiz_simulatoru) | Güvenlik kamerası simülatörü — nesne tespiti ve log sistemi | Python, OOP |
 | [🔍 Pixel Vision Analyzer](https://github.com/IbrahimEmreYildiz/pixel_vision_analyzer) | Piksel matrisi analizi — parlaklık hesaplama ve kenar tespiti | Python, NumPy |
