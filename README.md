@@ -11,19 +11,6 @@
 
 ---
 
-## 🚀 Öğrenme Yolculuğum | My Learning Journey
-
-```
-Python Temelleri ✅ → NumPy ✅ → Pandas ✅ → OpenCV 🔄 → PyTorch ⏳ → CV Projeleri ⏳
-```
-
-Mentor eşliğinde yapılandırılmış bir yol izleyerek **Computer Vision** alanında uzmanlaşmaya çalışıyorum.
-Her hafta yeni bir konu öğreniyor, öğrendiklerimi projelerle pekiştiriyorum.
-
-*Following a structured roadmap with a mentor to specialize in Computer Vision.
-Learning new topics every week and reinforcing them through projects.*
-
----
 
 ## 🛠️ Teknolojiler | Technologies
 
