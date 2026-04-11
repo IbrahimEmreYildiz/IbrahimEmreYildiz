@@ -16,10 +16,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
@@ -28,7 +33,7 @@
 
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| [🔎 Career Lens](https://github.com/IbrahimEmreYildiz/Career-Lens) | İş ilanlarını web'den toplayıp analiz eden ve masaüstü arayüzde görselleştiren modüler uygulama | Python, PyQt5, Pandas, SQLite, MongoDB, Selenium |
+| [🔎 CareerLens](https://github.com/IbrahimEmreYildiz/Career-Lens) | İş ilanlarını web'den toplayıp analiz eden ve masaüstü arayüzde görselleştiren modüler uygulama | Python, PyQt5, Pandas, SQLite, MongoDB, Selenium |
 | [🏛️ Library Tracking System](https://github.com/IbrahimEmreYildiz) | OOP, dosya yönetimi ve hata yönetimi içeren komut satırı kütüphane uygulaması | Python, JSON, OOP |
 | [📷 AI Camera Simulation](https://github.com/IbrahimEmreYildiz) | Güvenlik kamerası simülatörü — nesne tespiti ve log sistemi | Python, OOP |
 | [🔍 Pixel Vision Analyzer](https://github.com/IbrahimEmreYildiz) | Piksel matrisi analizi — parlaklık hesaplama ve kenar tespiti | Python, NumPy |
