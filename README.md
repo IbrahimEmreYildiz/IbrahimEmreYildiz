@@ -1,68 +1,77 @@
-<!-- Header -->
-<div align="center">
-  <h1>👋 Merhaba, ben İbrahim Emre Yıldız | Hi, I'm İbrahim Emre Yıldız</h1>
-  <p>
-    👁️ <strong>İlgi Alanı | Interest:</strong> Computer Vision<br>
-    🎓 Çukurova Üniversitesi — Bilgisayar Mühendisliği, 4. Sınıf<br>
-    🎓 Çukurova University — Computer Engineering, 4th Year<br>
-    📍 Adana, Türkiye
-  </p>
-</div>
+# İbrahim Emre Yıldız
+## Junior Computer Vision Engineer
+
+**[iemreis803@gmail.com](mailto:iemreis803@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/ibrahim-emre-yildiz-549ab0256)** | **[GitHub](https://github.com/IbrahimEmreYildiz)**
+
+## About Me
+
+Senior-year Computer Engineering student at Çukurova University (English-Taught) specializing in Computer Vision and Deep Learning. Building end-to-end vision systems with PyTorch, OpenCV, and YOLO — from instance segmentation pipelines to assistive navigation systems. Focused on production-ready, modular solutions for real-world problems.
+
+## Featured Projects
+
+### [Crop Disease Intelligence System](https://github.com/IbrahimEmreYildiz/Plant-Disease-Detector-App)
+
+Instance segmentation pipeline for plant disease detection and severity analysis on field crops. Fine-tuned YOLO26l-seg with class-filtering strategy and geometric mask-based severity scoring.
+
+- **Training:** PlantSeg dataset (Wei et al. 2024) filtered from 118 → 9 high-performing classes
+- **Performance:** mAP50 (Box) 0.578, mAP50 (Mask) 0.558 on train-2
+- **Optimization:** Frame striding (process every 5th frame, reuse detections) → 5x video inference speedup
+- **Stack:** Python, PyTorch, YOLO26l-seg, Ultralytics, OpenCV, Gradio
+
+### Real-Time Assistive Navigation for the Visually Impaired *(Graduation Thesis — In Progress)*
+
+YOLOv8-based real-time object detection and audio feedback system designed for visually impaired navigation. Monocular distance estimation with pinhole camera model and offline TTS.
+
+- **Architecture:** Modular pipeline (config / detector / distance_estimator / audio_feedback / visualizer / main)
+- **Detection:** YOLOv8n for real-time inference on consumer hardware
+- **Distance:** Pinhole camera model for monocular distance estimation
+- **Audio:** pyttsx3 offline TTS — works without internet connection
+- **Stack:** Python, Ultralytics YOLOv8, OpenCV, pyttsx3, NumPy
+
+### [AutoDamageDetection](https://github.com/IbrahimEmreYildiz/auto_damage_detection)
+
+End-to-end car damage severity classifier with selective fine-tuning strategy and cost estimation dashboard. Built on ImageNet-pretrained EfficientNet-B1.
+
+- **Dataset:** Kaggle Car Damage Severity (1500 images, 3 classes)
+- **Strategy:** Selective fine-tuning — last 3 feature blocks + classifier head trained, rest frozen
+- **Performance:** 76% test accuracy vs baseline CNN
+- **Deployment:** Streamlit dashboard, SQLite prediction history, Docker → Hugging Face Spaces
+- **Stack:** Python, PyTorch, EfficientNet-B1, Streamlit, SQLite, Docker
+
+### [Career Lens](https://github.com/IbrahimEmreYildiz/Career-Lens)
+
+Modular desktop application for job posting collection, analysis, and visualization. Full pipeline from web scraping to dual-database storage to statistical reporting.
+
+- **Pipeline:** Selenium scraping → MongoDB raw storage → SQLite analysis layer → Matplotlib visualization
+- **Architecture:** Modular OOP design (models / scraper / analyzer / GUI separated)
+- **Interface:** PyQt5 desktop GUI with embedded charts
+- **Stack:** Python, PyQt5, Selenium, Pandas, NumPy, SQLite, MongoDB, Matplotlib
+
+## Tech Stack
+
+**Computer Vision & Deep Learning:** PyTorch, Ultralytics (YOLOv8, YOLO26), OpenCV, EfficientNet, CNN, Transfer Learning, Instance Segmentation
+**Data & Analysis:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn
+**Backend & Storage:** MS SQL Server, Oracle SQL, SQLite, MongoDB
+**Tools & Deployment:** Git, GitHub, Docker, Streamlit, Gradio, Hugging Face Spaces, PyQt5, Jupyter, venv, Linux
+**Languages:** Python, SQL, C/C++
+
+## Experience
+
+**Software Development Intern** | Adana Water and Sewerage Administration (ASKİ) *(Aug 2025 – Sep 2025)*
+
+- Integrated new calculation parameter into production Water Module
+- Wrote Oracle SQL reporting queries over subscriber, consumption, and billing data
+
+**ERP Support and Hardware Intern** | Rival Yazılım *(Jul 2025 – Aug 2025)*
+
+- Provided remote desktop support to 10+ customers across LOGO Tiger/GO/Start ERP products
+- Performed database backup and data extraction on MS SQL Server
+
+**Software Team Member** | TEKNOFEST 2023 — Combat UAV Competition *(2023)*
+
+- Led data labeling, dataset preparation, and data augmentation for image classification model
+- Contributed to YOLOv7 + DeepSORT real-time object detection and multi-object tracking pipeline
 
 ---
 
-## 🛠️ Teknolojiler | Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-
-## 📂 Projeler | Projects
-
-| Proje | Açıklama | Teknolojiler |
-|-------|----------|--------------|
-| [🔎 Career Lens](https://github.com/IbrahimEmreYildiz/Career-Lens) | İş ilanlarını web'den toplayıp analiz eden ve masaüstü arayüzde görselleştiren modüler uygulama | Python, PyQt5, Pandas, SQLite, MongoDB, Selenium |
-| [💰 Price Tracker](https://github.com/IbrahimEmreYildiz/Price-Tracker-Project) | Web'den ürün fiyatı çekip CSV'ye kaydeden ve NumPy/Pandas ile istatistiksel rapor üreten analiz sistemi | Python, NumPy, Pandas, BeautifulSoup, Requests |
-| [🏛️ Library Tracking System](https://github.com/IbrahimEmreYildiz/library_tracking_system) | OOP, dosya yönetimi ve hata yönetimi içeren komut satırı kütüphane uygulaması | Python, JSON, OOP |
-| [📷 AI Camera Simulation](https://github.com/IbrahimEmreYildiz/goruntu_analiz_simulatoru) | Güvenlik kamerası simülatörü — nesne tespiti ve log sistemi | Python, OOP |
-| [🔍 Pixel Vision Analyzer](https://github.com/IbrahimEmreYildiz/pixel_vision_analyzer) | Piksel matrisi analizi — parlaklık hesaplama ve kenar tespiti | Python, NumPy |
-
----
-
-## 📊 GitHub Aktivite | GitHub Activity
-
-<div align="center">
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=IbrahimEmreYildiz&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-## 📬 İletişim | Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%C4%B0brahim%20Emre%20Y%C4%B1ld%C4%B1z-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-emre-yildiz)
-[![Gmail](https://img.shields.io/badge/Gmail-iemreis803@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iemreis803@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-IbrahimEmreYildiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IbrahimEmreYildiz)
-
-</div>
-
----
-
-<div align="center">
-  <i>"Her gün bir önceki günden daha iyi kod yaz." | "Write better code than yesterday."</i>
-</div>
+Open to **Junior Computer Vision Engineer** opportunities and research collaborations in Computer Vision, Deep Learning, and applied AI.
