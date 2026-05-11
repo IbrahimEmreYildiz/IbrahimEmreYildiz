@@ -52,8 +52,8 @@ Modular desktop application for job posting collection, analysis, and visualizat
 **Computer Vision & Deep Learning:** PyTorch, Ultralytics (YOLOv8, YOLO26), OpenCV, EfficientNet, CNN, Transfer Learning, Instance Segmentation
 **Data & Analysis:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn
 **Backend & Storage:** MS SQL Server, Oracle SQL, SQLite, MongoDB
-**Tools & Deployment:** Git, GitHub, Docker, Streamlit, Gradio, Hugging Face Spaces, PyQt5, Jupyter, venv, Linux
-**Languages:** Python, SQL, C/C++
+**Tools & Deployment:** Git, GitHub, Docker(With Hugging Face), Streamlit, Gradio, Hugging Face Spaces, PyQt5, Jupyter, venv, Linux
+**Languages:** Python, SQL
 
 ## Experience
 
